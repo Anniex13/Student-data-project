@@ -1,2 +1,2 @@
 # Student-data-project
-Analyzed open-source student data came up with key insights such as tuition cost, scholarships, gender and race of students in private universities for the past 5 years. this elps stakeholders understand their demographics and make better business decisions when it comes to tuition cost. 
+Analyzed open-source student data and discovered key insights in relation to scholarships and grants given by universities. Also analyzed age, gender and race of students in these institutions for the past five years. This dashboard provided my stakeholders with a deeper understanding of their demographics, as well as financial opportunities to make better business decisions. 
